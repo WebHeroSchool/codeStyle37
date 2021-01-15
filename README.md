@@ -20,7 +20,6 @@
         ` {alert ("Hello world");} `
 
   Лучшим вариантом остаётся:  <br />
-    ` if (1 > 0) { ` <br />  ` alert ("Hello world!");`
-    ` } `
+    ` if (1 > 0) { ` <br />  ` alert ("Hello world!");` <br />   ` } `
 
 2. ### Отступы #
